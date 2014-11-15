@@ -67,7 +67,7 @@ h1,h2,h3,h4,h5,h6 {
       -webkit-box-shadow: 0 0px 0 1px white, 0 7px 0 1px white, 0 14px 0 1px white;
       box-shadow: 0 0px 0 1px white, 0 7px 0 1px white, 0 14px 0 1px white;
 }
-[data-magellan-expedition-clone] {
+[data-magellan-expedition-clone]:after {
         background:transparent;
 }
 .f-topbar-fixed {
