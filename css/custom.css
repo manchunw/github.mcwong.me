@@ -106,10 +106,14 @@ div#section-info .columns.large-3.medium-4 {
 	font-weight: bold;
 	text-transform: uppercase;
 }
-.opt,.opt-text {
+.row.att {
 	line-height:40px;
-	padding-top:50px;
-	padding-bottom:50px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.row.att i {
+	margin-right:10px;
+	margin-top:-10px;
 }
 .row.att:hover{
 	background: #fff;
@@ -119,8 +123,12 @@ div#section-info .columns.large-3.medium-4 {
 p, span, h1, h2, h3, h4, h5, h6, a, div, li {
 	font-family: Arvo, 'Helvetica Neue', Helvetica, Arial, STHeiti, 'Microsoft JhengHei', 微軟正黑體, sans-serif;
 }
-.opt-text, .opt-text a{
+.opt-text, .opt-text a, .opt-text p{
+	font-size:20px;
 	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, STHeiti, 'Microsoft JhengHei', 微軟正黑體, sans-serif;
+}
+.opt-text p{
+	font-size:13px;
 }
 div#fixed-top-bar{
 	padding:0;
