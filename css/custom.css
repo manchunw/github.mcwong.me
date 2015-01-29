@@ -106,3 +106,6 @@ div#section-info .columns.large-3.medium-4 {
 	font-weight: bold;
 	text-transform: uppercase;
 }
+.opt,.opt-text {
+	line-height:30px;
+}
